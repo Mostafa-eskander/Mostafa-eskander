@@ -57,12 +57,9 @@ Responsive landing page project.
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-eskander&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-eskander&layout=compact&theme=tokyonight" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Mostafa-eskander&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-eskander&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mostafa-eskander&theme=tokyonight)
 
 ---
 
