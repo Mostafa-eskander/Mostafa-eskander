@@ -57,7 +57,10 @@ Responsive landing page project.
 
 ## 📊 GitHub Stats  
 
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa-eskander&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-eskander&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-eskander&layout=compact&theme=tokyonight" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-eskander&layout=compact&theme=tokyonight)
 
