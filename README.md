@@ -61,8 +61,6 @@ Responsive landing page project.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mostafa-eskander&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-eskander&layout=compact&theme=dark)
-
 ---
 
 ### 📫 Contact
