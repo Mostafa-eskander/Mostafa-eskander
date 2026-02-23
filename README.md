@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋 I'm Mostafa Mahmoud
+### Frontend Developer | React & Next.js Specialist  
 
-<!--
-**Mostafa-eskander/Mostafa-eskander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 About Me
+I'm a passionate Front-End Developer who loves building modern, responsive, and user-friendly web applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently improving my skills in Next.js  
+- 💡 Strong focus on clean code & reusable components  
+- Experienced in responsive & mobile-first design  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+HTML | CSS | JavaScript | React | Next.js  
+
+**State Management:**  
+Redux Toolkit  
+
+**Tools:**  
+Git | GitHub | Vercel  
+
+
+---
+
+### 🔥 Featured Projects
+
+### 🛒 E-Commerce App
+Modern full-featured e-commerce platform built with Next.js.  
+
+**Tech:** Next.js, Context API, CSS  
+🔗 Live Demo: (https://e-commerce-nextjs-eight-phi.vercel.app/)
+💻 GitHub: (https://github.com/Mostafa-eskander/E-commerce-nextjs)
+
+---
+
+### 🍕 Food Order App
+Interactive food ordering app with dynamic data handling.  
+
+**Tech:** React, Context API, CSS  
+🔗 Live Demo: (https://food-order-two-nu.vercel.app/) 
+💻 GitHub: (https://github.com/Mostafa-eskander/FoodOrder)
+
+---
+
+###  🌐 Clage SRV Landing Page
+Responsive landing page project. 
+
+**Tech:** HTML, CSS, JavaScript  
+🔗 Live Demo: (https://mostafa-eskander.github.io/clage-srv/)  
+💻 GitHub: (https://github.com/Mostafa-eskander/clage-srv)
+
+---
+
+## 📊 GitHub Stats  
+
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafa-eskander&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-eskander&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact
+
+- 💼 LinkedIn: [Mostafa Mahmoud](https://www.linkedin.com/in/mostafa-mahmoud-78722b3a8/)
+- 📧 Email:  mostafaeskander723@gmail.com
+
+---
+
+## 🚀 Currently Learning
+
+- Advanced Next.js Patterns  
+- Performance Optimization  
+- Clean Architecture in Frontend
+- SQL & Database Fundamentals
+  
