@@ -32,8 +32,8 @@ Git | GitHub | Vercel
 Modern full-featured e-commerce platform built with Next.js.  
 
 **Tech:** Next.js, Context API, CSS  
-🔗 Live Demo: (https://e-commerce-nextjs-eight-phi.vercel.app/)
-💻 GitHub: (https://github.com/Mostafa-eskander/E-commerce-nextjs)
+- 🔗 Live Demo: (https://e-commerce-nextjs-eight-phi.vercel.app/)
+- 💻 GitHub: (https://github.com/Mostafa-eskander/E-commerce-nextjs)
 
 ---
 
@@ -41,8 +41,8 @@ Modern full-featured e-commerce platform built with Next.js.
 Interactive food ordering app with dynamic data handling.  
 
 **Tech:** React, Context API, CSS  
-🔗 Live Demo: (https://food-order-two-nu.vercel.app/) 
-💻 GitHub: (https://github.com/Mostafa-eskander/FoodOrder)
+- 🔗 Live Demo: (https://food-order-two-nu.vercel.app/) 
+- 💻 GitHub: (https://github.com/Mostafa-eskander/FoodOrder)
 
 ---
 
@@ -50,8 +50,8 @@ Interactive food ordering app with dynamic data handling.
 Responsive landing page project. 
 
 **Tech:** HTML, CSS, JavaScript  
-🔗 Live Demo: (https://mostafa-eskander.github.io/clage-srv/)  
-💻 GitHub: (https://github.com/Mostafa-eskander/clage-srv)
+- 🔗 Live Demo: (https://mostafa-eskander.github.io/clage-srv/)  
+- 💻 GitHub: (https://github.com/Mostafa-eskander/clage-srv)
 
 ---
 
