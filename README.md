@@ -32,7 +32,7 @@ Git | GitHub | Vercel
 Personal portfolio website showcasing projects, skills, and a contact form.
 
 **Tech:** React.js, EmailJs , CSS  
-- 🔗 Live Demo: (https://e-commerce-nextjs-eight-phi.vercel.app/)
+- 🔗 Live Demo: (https://portfolio-nu-steel-2q4oz8komf.vercel.app/)
 - 💻 GitHub: (https://github.com/Mostafa-eskander/portfolio)
 
 ---
@@ -41,7 +41,7 @@ Personal portfolio website showcasing projects, skills, and a contact form.
 Modern full-featured e-commerce platform built with Next.js.  
 
 **Tech:** Next.js, Context API, CSS  
-- 🔗 Live Demo: (https://portfolio-nu-steel-2q4oz8komf.vercel.app/)
+- 🔗 Live Demo: (https://e-commerce-nextjs-eight-phi.vercel.app/)
 - 💻 GitHub: (https://github.com/Mostafa-eskander/E-commerce-nextjs)
 
 ---
